@@ -1,0 +1,121 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    background: #8d0a2f;
+    background: -webkit-linear-gradient(to bottom,
+        #9a4c22,
+        #a36e7d);
+    background: linear-gradient(to bottom,
+        #f4e2d8,
+        #ba5370);
+    
+  }
+  
+  .banner {
+    background-image: url('images/images1.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(169, 134, 134);
+    margin: 0%;
+  }
+  
+  .banner>h1 {
+    margin: 0%;
+    padding-top: 180px;
+    font-size: 63px;
+    padding-left: 20px;
+  }
+  
+  .banner>i {
+    font-size: 33px;
+    padding-left: 20px;
+  }
+  
+  #abouth {
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+    background-color: #d08096;
+    background-size: contain;
+    border-radius: 5px 5px 0px 0px;
+  }
+  
+  .containerabout {
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    align-items: center;
+    text-align: justify;
+    padding-bottom: 10px;
+    background-color: #a85469;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 17px;
+  }
+  
+  .child2 {
+    width: 73%;
+  }
+  
+  .img1 {
+    width: 27vw;
+    height: 250px;
+    float: right;
+    border-radius: 5px;
+    box-shadow: 3px 3px 8px #011601;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    text-align: justify;
+    padding-bottom: 10px;
+  }
+  
+  .awards {
+    border-radius: 10px;
+    background-color: #d08096;
+    padding-right: 15px;
+    box-shadow: 1px 1px 15px whitesmoke;
+  }
+  
+  .child {
+    width: 25%;
+  }
+  
+  #ah {
+    margin-left: 20px;
+  }
+  
+  .img2 {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 15px green;
+  }
+  
+  .honours {
+    border-radius: 10px;
+    background-color: #d08096;
+    padding-right: 15px;
+    box-shadow: 1px 1px 15px whitesmoke;
+  }
+  
+  .foot {
+    text-align: center;
+    background: #ffd89b;
+    background: -webkit-linear-gradient(to left,
+        #67a3cb,
+        #c37c09);
+    background: linear-gradient(to left,
+        #19547b,
+        #ffd89b);
+    
+  }
+  
